@@ -13,3 +13,10 @@ The rules of the game are:
 3. For each wrong guess a body part of the hangman will appear.
 4. If the hangman figure is completed, Player 1/Computer wins
 5. If all the letters are rightly guessed without completing the hangman figure, Player 2 wins
+
+Some snapshots of the game:
+
+![screenshot1](images/screenshot1.png)
+![screenshot2](images/screenshot2.png)
+![screenshot3](images/screenshot3.png)
+![screenshot4](images/screenshot4.png)
